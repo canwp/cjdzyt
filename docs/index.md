@@ -4,7 +4,13 @@
 
 ## 雅思 TRF 成绩单有哪些防伪暗记？电子版和纸质版怎么用？
 
-![雅思官方成绩单样张](ielts-test-report_dpd0Od.png)
+<p align="center">
+  <a href="ielts-test-report" target="_blank">
+    <img src="ielts-test-report" alt="雅思成绩单样本，雅思纸质样式图片" width="200">
+  </a>
+  <br>
+  <sub>▲ 雅思成绩单样本（点击图片查看高清大图）</sub>
+</p>
 
 先看雅思（IELTS）Test Report Form，圈内通常简称为 TRF。左上角是加粗的黑色 IELTS 商标，右上角印着英国资格及考试监管办公室“ofqual”的认证标志。第二行清楚标明了考试类别，样张里显示的是“IELTS Academic”（学术类），如果是移民或工作用途，这里会印成“General Training”（培训类）。
 
@@ -26,7 +32,13 @@
 
 ## 托福成绩单长什么样？送分和拼分怎么操作？
 
-![托福官方成绩单样张](toefl-ibt-score-report_eQ-TLx.png)
+<p align="center">
+  <a href="toefl-ibt-score-report" target="_blank">
+    <img src="toefl-ibt-score-report" alt="托福成绩单样本，托福纸质样式图片" width="200">
+  </a>
+  <br>
+  <sub>▲托福成绩单样本（点击图片查看高清大图）</sub>
+</p>
 
 接着看 ETS 托福（TOEFL iBT）Test Taker Score Report（考生个人成绩单）。左上角印着蓝绿色的 ETS 和 TOEFL iBT 标识，右上角有一个灰色底纹的“ETS Security Guard”防伪框。纸质版原件在这里用了温变防伪油墨，用手搓热或者哈口气，这行字就会消失，这是院校招生官鉴别纸质原件真伪的第一道关卡。
 
@@ -44,7 +56,13 @@
 
 ## 托业证书怎么看懂能力图谱？企业招聘认哪一种？
 
-![托业官方成绩单样张](updated-toeic-score-report-sample_YNtiFn.png)
+<p align="center">
+  <a href="updated-toeic-score-report-sample" target="_blank">
+    <img src="updated-toeic-score-report-sample" alt="托业成绩单样本，托业纸质样式图片" width="200">
+  </a>
+  <br>
+  <sub>▲托业成绩单样本（点击图片查看高清大图）</sub>
+</p>
 
 最后看托业（TOEIC）听力和阅读考试的官方成绩证书（Official Score Certificate）。顶部是绿色的“*toeic”标志，紧接着是棕金色横幅标题。左上角是个人照片，旁边依次排列着姓名、证件号、出生日期，以及非常重要的两个时间节点：Test Date（考试日期）和 Valid Until（有效期截止日，同样是两年）。
 
