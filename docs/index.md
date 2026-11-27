@@ -5,8 +5,8 @@
 ## 雅思 TRF 成绩单有哪些防伪暗记？电子版和纸质版怎么用？
 
 <p align="center">
-  <a href="ielts-test-report" target="_blank">
-    <img src="ielts-test-report" alt="雅思成绩单样本，雅思纸质样式图片" width="200">
+  <a href="ielts-test-report.jpg" target="_blank">
+    <img src="ielts-test-report.jpg" alt="雅思成绩单样本，雅思纸质样式图片" width="200">
   </a>
   <br>
   <sub>▲ 雅思成绩单样本（点击图片查看高清大图）</sub>
@@ -33,8 +33,8 @@
 ## 托福成绩单长什么样？送分和拼分怎么操作？
 
 <p align="center">
-  <a href="toefl-ibt-score-report" target="_blank">
-    <img src="toefl-ibt-score-report" alt="托福成绩单样本，托福纸质样式图片" width="200">
+  <a href="toefl-ibt-score-report.jpg" target="_blank">
+    <img src="toefl-ibt-score-report.jpg" alt="托福成绩单样本，托福纸质样式图片" width="200">
   </a>
   <br>
   <sub>▲托福成绩单样本（点击图片查看高清大图）</sub>
@@ -57,8 +57,8 @@
 ## 托业证书怎么看懂能力图谱？企业招聘认哪一种？
 
 <p align="center">
-  <a href="updated-toeic-score-report-sample" target="_blank">
-    <img src="updated-toeic-score-report-sample" alt="托业成绩单样本，托业纸质样式图片" width="200">
+  <a href="updated-toeic-score-report-sample.jpg" target="_blank">
+    <img src="updated-toeic-score-report-sample.jpg" alt="托业成绩单样本，托业纸质样式图片" width="200">
   </a>
   <br>
   <sub>▲托业成绩单样本（点击图片查看高清大图）</sub>
